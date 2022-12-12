@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Malinga 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java Script
+- 📫 0606malingarajapaksha@gmail.com
