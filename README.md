@@ -1,4 +1,4 @@
-<h2 align="center">👋 I'm Malinga Rajapaksha</h2> 
+<h2 align="center">👋 Hello, I'm Malinga Rajapaksha!</h2> 
 <br /> 
 <p align="justify">
 An aspiring Data Scientist and Python enthusiast with a profound interest in the intricacies of machine learning, data analysis, and visualisation. 
