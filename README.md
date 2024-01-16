@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Malinga Rajapaksha
-- 👀 My Primary Interest Revolves Around Machine Learning and The Broader Field of Data Science
-- 📚 Currently Learning Python For AI/ML
-- 📫 0606malingarajapaksha@gmail.com
-
-
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Malinga Rajapaksha! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+- 👀 Aspiring Data Scientist with a primary interest in Machine Learning and Data Science
+- 📚 Currently focused on learning Python for AI/ML
+- 📫 Contact: 0606malingarajapaksha@gmail.com
 <br />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,azure,php,stackoverflow,tensorflow,vscode,Wordpress"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,azure,vscode,js,html,css,php,stackoverflow,Wordpress,figma"  />
 </p>
 <br />
 
