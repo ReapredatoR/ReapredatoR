@@ -1,5 +1,5 @@
 <!--Name-->       
-<h2 align="center">👋ʜᴇʟʟᴏ, ɪ'ᴍ ᴍᴀʟɪɴɢᴀ ʀᴀᴊᴀᴘᴀᴋsʜᴀ!</h2> 
+<h2 align="center">👋 ʜᴇʟʟᴏ, ɪ'ᴍ ᴍᴀʟɪɴɢᴀ ʀᴀᴊᴀᴘᴀᴋsʜᴀ!</h2> 
 <br/> 
 
 <!--Intro-->       
@@ -21,7 +21,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <br/>
 
 <!--Languages and Tools-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,js,html,css,php,stackoverflow,azure,vscode,wordpress,figma"/>
 </p>
