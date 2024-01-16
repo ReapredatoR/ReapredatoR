@@ -7,7 +7,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,azure,vscode,js,html,css,php,stackoverflow,Wordpress,figma"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,azure,vscode,js,html,css,php,stackoverflow,wordpress,figma"  />
 </p>
 <br />
 
