@@ -23,7 +23,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <!--Languages and Tools-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,azure,vscode,js,html,css,php,stackoverflow,wordpress,figma"/>
+<img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,azure,vscode,js,html,css,php,stackoverflow,wordpress,figma"/>
 </p>
 
 <br />
@@ -34,9 +34,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <br/>
 
 <!--Stats--> 
-<p align="justify" > 
-<img src="https://github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=calm&hide_border=true"/>
+<p align="center" > 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 <p/>
 
