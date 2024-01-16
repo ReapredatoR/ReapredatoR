@@ -1,7 +1,7 @@
 👋 I'm Malinga Rajapaksha
 <br /> 
 <p align="left">
-I am an aspiring Data Scientist and Python Enthusiast deeply intrigued by machine learning, data analysis, and visualisation. My journey includes a dedicated focus on honing skills in Python, data manipulation, and algorithmic problem-solving. 
+An aspiring Data Scientist and Python Enthusiast deeply intrigued by machine learning, data analysis, and visualisation. My journey includes a dedicated focus on honing skills in Python, data manipulation, and algorithmic problem-solving. 
 <p/>
   
 <br /> 
