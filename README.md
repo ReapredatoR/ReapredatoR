@@ -1,8 +1,14 @@
 👋 I'M MALINGA!
 <br /> 
-- 👀 Aspiring Data Scientist with a primary interest in Machine Learning and Data Science
-- 📚 Currently focused on learning Python for AI/ML
-- 📫 Contact: 0606malingarajapaksha@gmail.com
+I am an aspiring Data Scientist and Python Enthusiast deeply intrigued by machine learning, data analysis, and visualisation. My journey includes a dedicated focus on honing skills in Python, data manipulation, and algorithmic problem-solving. 
+
+✨ Continuous learner, embracing every day as an opportunity for growth.
+🌱 Actively involved as a student in the dynamic field of Data Science.
+🔍 Exploring the world of machine learning with passion and dedication.
+💻 Currently working on various data-driven projects to enhance practical knowledge.
+📚 Aspiring to contribute to open-source initiatives and share insights through technical blogs.
+💬 Feel free to explore my portfolio to understand my journey and projects better.
+
 <br />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
