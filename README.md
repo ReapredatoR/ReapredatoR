@@ -34,9 +34,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <br/>
 
 <!--Stats--> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=calm&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=calm&hide_border=true"/>
 
 
 <br/>
