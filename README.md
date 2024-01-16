@@ -48,6 +48,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 
 <!--Badges--> 
 <h2 align="center">ʙᴀᴅɢᴇs</h2> 
+
 [![An image of @reapredator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reapredator)](https://holopin.io/@reapredator)
 
 <br/>
