@@ -33,10 +33,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 
 <br />
 
-
-<p align="center>
-  
 <!--Stats-->
 ![reapredator's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<p/>
+
