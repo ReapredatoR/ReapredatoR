@@ -33,15 +33,13 @@ My professional journey is marked by a steadfast commitment to refining skills i
 
 <br />
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true)" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=calm&hide_border=true)" /></div>
-</div>
-
+<div class='container' align="center>
+  
 ![](https://github-readme-stats.vercel.app/api?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=calm&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 
 
