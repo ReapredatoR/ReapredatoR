@@ -1,5 +1,5 @@
 <!--Name-->       
-<h2 align="center">👋 Hello, I'm Malinga Rajapaksha!</h2> 
+<h2 align="center">👋ʜᴇʟʟᴏ, ɪ'ᴍ ᴍᴀʟɪɴɢᴀ ʀᴀᴊᴀᴘᴀᴋsʜᴀ!</h2> 
 <br/> 
 
 <!--Intro-->       
@@ -32,6 +32,14 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <p align="center" > 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 <p/>
+
+<br/>
+<h2 align="center">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2> 
+<a href="https://twitter.com/ReapredatoR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reapredator" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reapredator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reapredator" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rshanlk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reapredator" height="30" width="40" /></a>
+<a href="https://www.instagram.com/malinga_rajapaksha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reapredator" height="30" width="40" /></a>
+</p>
 
 <br/>
 
