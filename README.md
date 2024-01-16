@@ -1,4 +1,4 @@
-👋 I'm Malinga Rajapaksha
+👋  I'm Malinga Rajapaksha
 <br /> 
 <p align="justify">
 An aspiring Data Scientist and Python enthusiast with a profound interest in the intricacies of machine learning, data analysis, and visualisation. 
