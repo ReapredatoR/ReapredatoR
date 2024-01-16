@@ -50,6 +50,3 @@ My professional journey is marked by a steadfast commitment to refining skills i
 [![An image of @reapredator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reapredator)](https://holopin.io/@reapredator)
 
 <br/>
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-
