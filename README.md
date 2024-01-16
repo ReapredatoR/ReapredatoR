@@ -28,9 +28,14 @@ My professional journey is marked by a steadfast commitment to refining skills i
 
 <br />
 
-<!--Badges-->  
+<!--Badges--> 
+<p align="center>
+  
 [![An image of @reapredator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reapredator)](https://holopin.io/@reapredator)
+![reapredator's Stats](https://github-readme-stats.vercel.app/api?username=reapredator&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![reapredator's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reapredator&theme=vue-dark&hide_border=true)
 
+<p/>
 <br />
 
 <!--Stats-->
