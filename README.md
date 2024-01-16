@@ -7,12 +7,12 @@ An aspiring Data Scientist and Python Enthusiast deeply intrigued by machine lea
 <br /> 
   
 <p align="left">
-✨ Continuous learner, embracing every day as an opportunity for growth.
-🌱 Actively involved as a student in the dynamic field of Data Science.
-🔍 Exploring the world of machine learning with passion and dedication.
-💻 Currently working on various data-driven projects to enhance practical knowledge.
-📚 Aspiring to contribute to open-source initiatives and share insights through technical blogs.
-💬 Feel free to explore my portfolio to understand my journey and projects better.
+- ✨ Continuous learner, embracing every day as an opportunity for growth.
+- 🌱 Actively involved as a student in the dynamic field of Data Science.
+- 🔍 Exploring the world of machine learning with passion and dedication.
+- 💻 Currently working on various data-driven projects to enhance practical knowledge.
+- 📚 Aspiring to contribute to open-source initiatives and share insights through technical blogs.
+- 💬 Feel free to explore my profile to better understand my journey and projects.
 <p/>
   
 <br />
