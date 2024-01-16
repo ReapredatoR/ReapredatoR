@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>- 👋 I'M MALINGA!
+👋 I'M MALINGA!
 <br /> 
 - 👀 Aspiring Data Scientist with a primary interest in Machine Learning and Data Science
 - 📚 Currently focused on learning Python for AI/ML
