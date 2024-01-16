@@ -1,5 +1,8 @@
+<!--Name-->       
 <h2 align="center">👋 Hello, I'm Malinga Rajapaksha!</h2> 
 <br /> 
+
+<!--Intro-->       
 <p align="justify">
 An aspiring Data Scientist and Python enthusiast with a profound interest in the intricacies of machine learning, data analysis, and visualisation. 
 My professional journey is marked by a steadfast commitment to refining skills in Python programming, adept data manipulation techniques, and advanced algorithmic problem-solving. 
@@ -7,6 +10,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
   
 <br /> 
 
+<!--About Me-->  
 - ✨ Continuous learner, embracing every day as an opportunity for growth.
 - 🌱 Actively involved as a student in the dynamic field of Data Science.
 - 🔍 Exploring the world of machine learning with passion and dedication.
@@ -15,11 +19,19 @@ My professional journey is marked by a steadfast commitment to refining skills i
 - 💬 Feel free to explore my profile to better understand my journey and projects.
   
 <br />
-<!--Languages and Tools Section-->       
+
+<!--Languages and Tools-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,azure,vscode,js,html,css,php,stackoverflow,wordpress,figma"  />
 </p>
+
 <br />
 
+<!--Badges-->  
 [![An image of @reapredator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reapredator)](https://holopin.io/@reapredator)
+
+<br />
+
+<!--Stats-->
+![reapredator's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
