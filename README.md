@@ -23,7 +23,7 @@ My professional journey is marked by a steadfast commitment to refining skills i
 <!--Languages and Tools-->       
 <h2 align="center">ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2> 
 <p align="center">
-<img  width="650px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,matlab,tensorflow,pytorch,js,html,css,php,stackoverflow,azure,vscode,wordpress,figma"/>
+<img  width="650px"  src="https://skillicons.dev/icons?i=py,mysql,sklearn,matlab,tensorflow,pytorch,aws,js,html,css,php,stackoverflow,azure,vscode,wordpress,figma"/>
 </p>
 
 <br />
