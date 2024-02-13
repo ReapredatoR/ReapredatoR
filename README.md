@@ -16,14 +16,14 @@ My professional journey is marked by a steadfast commitment to refining skills i
 - 🔍 Exploring the world of machine learning with passion and dedication.
 - 💻 Currently working on various data-driven projects to enhance practical knowledge.
 - 📚 Aspiring to contribute to open-source initiatives and share insights through technical blogs.
-- 💬 Feel free to explore my profile to better understand my journey and projects.
+- 💬 Feel free to explore my profile to understand my journey and projects better.
   
 <br/>
 
 <!--Languages and Tools-->       
 <h2 align="center">ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2> 
 <p align="center">
-<img  width="650px"  src="https://skillicons.dev/icons?i=py,sql,r,aws,azure,vscode,wordpress,figma"/>
+<img  width="650px"  src="https://skillicons.dev/icons?i=py,SQL,r,aws,azure,vscode,wordpress,figma"/>
 </p>
 
 <br />
