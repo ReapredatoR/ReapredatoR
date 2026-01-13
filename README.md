@@ -74,13 +74,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reapredator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reapredator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
   <p>📍 Colombo, Sri Lanka</p>
 </div>
